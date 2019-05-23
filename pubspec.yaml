@@ -7,7 +7,7 @@ environment:
   sdk: ">=1.21.0 <2.4.0"
 dependencies:
   async: ">=1.8.0 <2.4.0"
-  archive: "^1.0.33"
+  archive: "^2.0.8"
   xml: ">=2.6.0 <4.0.0"
   image: "^1.1.30"
 dev_dependencies:
